@@ -4,7 +4,7 @@
     "description": "",
     "authors": [
         {
-            "id": "enso#0361",
+            "id": "enso#0361"
         }
     ],
     "system": ["dnd5e"],
@@ -19,5 +19,6 @@
             "system": "dnd5e",
             "entity": "Item"
         }
-    ]
+    ],
+    "url": "https://github.com/Mangokiste/raven-initiative"
 }
