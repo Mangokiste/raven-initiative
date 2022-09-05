@@ -19,7 +19,5 @@
             "system": "dnd5e",
             "entity": "Item"
         }
-    ],
-    "url": "https://github.com/Mangokiste/raven-initiative",
-    "manifest": "https://raw.githubusercontent.com/Mangokiste/raven-initiative/main/module.json"
+    ]
 }
