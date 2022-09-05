@@ -4,7 +4,7 @@
     "description": "Raven Initiative or Greyhawk Initiative System for FoundryVTT",
     "authors": [
         {
-            "id": "enso#0361"
+            "name": "enso#0361"
         }
     ],
     "system": ["dnd5e"],
