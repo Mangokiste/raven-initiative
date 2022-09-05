@@ -16,8 +16,8 @@
             "name": "raven-initiative",
             "label": "Raven Initiative",
             "path": "packs/raven-initiative.db",
-            "entity": "Item",
-            "package": "raven-initiative"
+            "system": "dnd5e",
+            "entity": "Item"
         }
     ],
     "url": "https://github.com/Mangokiste/raven-initiative",
